@@ -1,0 +1,10 @@
+[
+  {
+    "package": "languageserversetup",
+    "oncran": true
+  },
+  {
+    "package": "nhlapi",
+    "oncran": true
+  }
+]

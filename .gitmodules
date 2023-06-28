@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "languageserversetup"]
 	path = languageserversetup
 	url = https://github.com/jozefhajnala/languageserversetup
-	shallow = true
-	registered = true
 [submodule "nhlapi"]
 	path = nhlapi
 	url = https://github.com/jozefhajnala/nhlapi
-	shallow = true
-	registered = true

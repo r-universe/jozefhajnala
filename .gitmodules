@@ -5,6 +5,3 @@
 [submodule "languageserversetup"]
 	path = languageserversetup
 	url = https://github.com/jozefhajnala/languageserversetup
-[submodule "nhlapi"]
-	path = nhlapi
-	url = https://github.com/jozefhajnala/nhlapi
